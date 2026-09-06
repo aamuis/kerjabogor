@@ -1,0 +1,6 @@
+{
+  "name": "Kerja Bogor",
+  "description": "Platform digital ketenagakerjaan lokal Bogor berbasis jarak radius, AI job matching, CV builder, peta lowongan, dan butuh orang hari ini.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
